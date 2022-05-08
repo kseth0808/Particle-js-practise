@@ -267,14 +267,14 @@ span{
 #portfolio{
     background-color: #000000;
 }
-.facultyco,.studentco{
+.project{
     width: 100%;
     padding-left: 10%;
     padding-top: 10%;
     padding-right: 10%;
     text-align: center;
 }
-.facultyco h1,.studentco h1{
+.project h1{
     font-family: 'Montserrat', sans-serif;
     opacity: 0.7;
     margin-bottom: 50px;
